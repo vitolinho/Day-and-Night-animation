@@ -14,4 +14,4 @@
 
 ## Captures d'écran
  
-<img src="/images/screenjour.png" alt="screen jour" width="500px"><span><span><img src="/images/screennuit.png" alt="screen nuit" width="500px">
+<img src="/images/screenjour.png" alt="screen jour" width="500px"><span> <span><img src="/images/screennuit.png" alt="screen nuit" width="500px">
