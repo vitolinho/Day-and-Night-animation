@@ -2,7 +2,8 @@
 
 ### Captures d'écran
  
-<img src="/images/screenjour.png" alt="screen jour">
+<img src="/images/screenjour.png" alt="screen jour" width="200px">
+<img src="/images/screennuit.png" alt="screen nuit" width="200px">
  
 ### But
 - Apprendre à mieux utiliser le HTML, CSS et Javascript.
