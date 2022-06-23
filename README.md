@@ -2,7 +2,7 @@
 
 ### Captures d'écran
  
-<img src="/Day-and-Night-animation/images/screenjour.png" alt="screen jour">
+<img src="/images/screenjour.png" alt="screen jour">
  
 ### But
 - Apprendre à mieux utiliser le HTML, CSS et Javascript.
