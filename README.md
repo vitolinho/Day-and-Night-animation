@@ -4,7 +4,7 @@
 
 - Apprendre à mieux utiliser le HTML, CSS et Javascript.
 - Faire une animation en Front.
-- Comprendre meiux le fonctionnement de ces 3 technologies.
+- Comprendre mieux le fonctionnement de ces 3 technologies.
 
 ## Captures d'écran
  
