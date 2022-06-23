@@ -1,11 +1,11 @@
 ### <p align="center">Animation en Front - Day and Night animation/p>
 
-### Captures d'écran
+## Captures d'écran
  
-<img src="/images/screenjour.png" alt="screen jour" width="200px">
-<img src="/images/screennuit.png" alt="screen nuit" width="200px">
+<img src="/images/screenjour.png" alt="screen jour" width="500px">
+<img src="/images/screennuit.png" alt="screen nuit" width="500px">
  
-### But
+## But
 - Apprendre à mieux utiliser le HTML, CSS et Javascript.
 - Comprendre meiux le fonctionnement de ces 3 technologies.
 
