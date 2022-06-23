@@ -7,6 +7,7 @@
  
 ## But
 - Apprendre à mieux utiliser le HTML, CSS et Javascript.
+- Faire une animation en Front.
 - Comprendre meiux le fonctionnement de ces 3 technologies.
 
 ## Technologies utilisées
