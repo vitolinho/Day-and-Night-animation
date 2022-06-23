@@ -16,4 +16,4 @@
  
 <img src="/images/screenjour.png" alt="screen jour" width="500px"> <img src="/images/screennuit.png" alt="screen nuit" width="500px">
 
-<video controls="controls"><source src="/video/videoanim.mov"></video>
+<video controls="controls"><source src="/video/videoanim.mp4"></video>
