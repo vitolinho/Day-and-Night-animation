@@ -1,4 +1,4 @@
-### <p align="center">Animation en Front - Day and Night animation</p>
+### <p align="center">Animation en Front - Le jour et la Nuit</p>
 
 ## But
 
