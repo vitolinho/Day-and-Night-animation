@@ -18,4 +18,4 @@
 
 ## Vidéo
 
-<video controls="controls"><source src="videoanim.mp4"></video>
+[vidéo]("videoanim.mp4)
