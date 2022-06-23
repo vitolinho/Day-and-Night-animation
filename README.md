@@ -8,7 +8,7 @@
 
 ## Captures d'écran
  
-<img src="/images/screenjour.png" alt="screen jour" width="600px"> <img src="/images/screennuit.png" alt="screen nuit" width="600px"><br>
+<img src="/images/screenjour.png" alt="screen jour" width="400px"> <img src="/images/screennuit.png" alt="screen nuit" width="400px"><br>
 
 ## Vidéo
 
